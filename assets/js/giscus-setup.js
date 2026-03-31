@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "alshedivat/al-folio",
+    "data-repo": "reginaseris-byte/Regina-Seri-Atsebi",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
